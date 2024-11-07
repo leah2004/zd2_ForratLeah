@@ -1,0 +1,10 @@
+C:\Users\HUAWEI\Desktop\zd2_forrat\zd2_forrat\bin\Debug\zd2_forrat.exe.config
+C:\Users\HUAWEI\Desktop\zd2_forrat\zd2_forrat\bin\Debug\zd2_forrat.exe
+C:\Users\HUAWEI\Desktop\zd2_forrat\zd2_forrat\bin\Debug\zd2_forrat.pdb
+C:\Users\HUAWEI\Desktop\zd2_forrat\zd2_forrat\obj\Debug\zd2_forrat.csproj.AssemblyReference.cache
+C:\Users\HUAWEI\Desktop\zd2_forrat\zd2_forrat\obj\Debug\zd2_forrat.Form1.resources
+C:\Users\HUAWEI\Desktop\zd2_forrat\zd2_forrat\obj\Debug\zd2_forrat.Properties.Resources.resources
+C:\Users\HUAWEI\Desktop\zd2_forrat\zd2_forrat\obj\Debug\zd2_forrat.csproj.GenerateResource.cache
+C:\Users\HUAWEI\Desktop\zd2_forrat\zd2_forrat\obj\Debug\zd2_forrat.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\Desktop\zd2_forrat\zd2_forrat\obj\Debug\zd2_forrat.exe
+C:\Users\HUAWEI\Desktop\zd2_forrat\zd2_forrat\obj\Debug\zd2_forrat.pdb
